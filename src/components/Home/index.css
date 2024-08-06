@@ -1,1 +1,26 @@
-/* Write your CSS here */
+.home-route-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+}
+
+.ipl-dashboard-heading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ipl-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.ipl-dashboard-heading {
+  color: white;
+}
+
+.teams-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  list-style-type: none;
+}

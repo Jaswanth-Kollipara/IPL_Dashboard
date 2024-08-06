@@ -1,1 +1,29 @@
-/* Write your CSS here */
+.team-item {
+  display: flex;
+  width: 45%;
+  background-color: transparent;
+  padding: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 3px solid white;
+  border-radius: 10px;
+  align-items: center;
+}
+
+.link-item {
+  width: 100%;
+  display: flex;
+  color: white;
+  align-items: center;
+  text-decoration: none;
+  justify-content: space-between;
+}
+
+.team-logo {
+  width: 100px;
+  height: 100px;
+}
+
+.team-name {
+  font-size: 20px;
+}

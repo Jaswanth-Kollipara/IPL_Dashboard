@@ -1,1 +1,34 @@
-/* Write your CSS here */
+.latest-match-heading {
+  color: white;
+  text-align: left;
+}
+
+.latest-match-card {
+  background-color: black;
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  color: white;
+}
+
+.latest-match-details-logo-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding: 20px;
+}
+
+.latest-match-details-1 {
+  width: 80%;
+  text-align: left;
+}
+
+.latest-match-team-logo {
+  width: 150px;
+  height: 100px;
+}
+
+.latest-match-details-2 {
+  text-align: left;
+  padding: 20px;
+}
